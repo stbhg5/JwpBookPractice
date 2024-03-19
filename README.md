@@ -7,4 +7,5 @@
     <a href="https://stbhg5.tistory.com/361" >1.3 처음에 배워야 하는 것들</a><br/>
     <a href="https://stbhg5.tistory.com/362" >1.4 일단 시작해 보자</a><br/>
     <a href="https://stbhg5.tistory.com/363" >1.5 본격적으로 웹 프로그래밍에 도전</a><br/>
+    <a href="https://stbhg5.tistory.com/364" >1.6 학습 방법</a><br/>
 
