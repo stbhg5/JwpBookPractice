@@ -13,7 +13,7 @@
 
 <h2><a href="https://stbhg5.tistory.com/365" >2. 두 번째 양파 껍질 벗기기</a><h2/><br/>
 
-<br/><br/>
+<br/>
 
 <h2><a href="https://stbhg5.tistory.com/366" >2장 문자열 계산기 구현을 통한 테스트와 리팩토링</a><h2/><br/>
     <a href="https://stbhg5.tistory.com/367" >2.1 main() 메서드를 활용한 테스트의 문제점</a><br/>
