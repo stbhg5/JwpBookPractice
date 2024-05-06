@@ -17,4 +17,5 @@
     <a href="https://stbhg5.tistory.com/367" >2.1 main() 메서드를 활용한 테스트의 문제점</a><br/>
     <a href="https://stbhg5.tistory.com/368" >2.2 JUnit을 활용해 main() 메서드 문제점 극복</a><br/>
     <a href="https://stbhg5.tistory.com/369" >2.2.1 한 번에 메서드 하나에만 집중</a><br/>
+    <a href="https://stbhg5.tistory.com/370" >2.2.2 결과 값을 눈이 아닌 프로그램을 통해 자동화</a><br/>
 
