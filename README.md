@@ -22,5 +22,6 @@
     2.3 문자열 계산기 요구사항 및 실습<br/>
     <a href="https://stbhg5.tistory.com/432" >2.3.1 요구사항</a><br/>
     <a href="https://stbhg5.tistory.com/433" >2.3.2 요구사항 분리 및 각 단계별 힌트</a><br/>
+    <a href="https://stbhg5.tistory.com/434" >2.3.3 추가 요구사항</a><br/>
 
 <br/><br/>
