@@ -23,5 +23,7 @@
     <a href="https://stbhg5.tistory.com/432" >2.3.1 요구사항</a><br/>
     <a href="https://stbhg5.tistory.com/433" >2.3.2 요구사항 분리 및 각 단계별 힌트</a><br/>
     <a href="https://stbhg5.tistory.com/434" >2.3.3 추가 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/435" >2.4 테스트와 리팩토링을 통한 문자열 계산기 구현</a><br/>
+    <a href="https://stbhg5.tistory.com/436" >2.4.1 요구사항을 작은 단위로 나누기</a><br/>
 
 <br/><br/>
