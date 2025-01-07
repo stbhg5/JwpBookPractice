@@ -27,5 +27,8 @@
     <a href="https://stbhg5.tistory.com/436" >2.4.1 요구사항을 작은 단위로 나누기</a><br/>
     <a href="https://stbhg5.tistory.com/437" >2.4.2 모든 단계의 끝은 리팩토링</a><br/>
     <a href="https://stbhg5.tistory.com/438" >2.4.3 동영상을 활용한 학습</a><br/>
+    2.4.4 문자열 계산기 구현<br/>
+    <a href="https://stbhg5.tistory.com/439" >2.4.4.1 빈 문자열 또는 null 값을 입력할 경우 0을 반환해야 한다</a><br/>
+    <a href="https://stbhg5.tistory.com/440" >2.4.4.2 숫자 하나를 문자열로 입력할 경우 해당 숫자를 반환한다</a><br/>
 
 <br/><br/>
