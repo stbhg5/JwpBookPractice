@@ -34,5 +34,7 @@
     <a href="https://stbhg5.tistory.com/442" >2.4.4.4 구분자를 쉼표(,) 이외에 콜론을 사용할 수 있다</a><br/>
     <a href="https://stbhg5.tistory.com/443" >2.4.4.5 문자 사이에 커스텀 구분자를 지정할 수 있다</a><br/>
     <a href="https://stbhg5.tistory.com/444" >2.4.4.6 문자열 계산기에 음수를 전달하는 경우 RuntimeException 예외를 throw 한다</a><br/>
+    2.5 추가 학습 자료<br/>
+    <a href="https://stbhg5.tistory.com/445" >2.5.1 테스트 주도 개발(Test Driven Development, 이하 TDD)과 리팩토링</a><br/>
 
 <br/><br/>
