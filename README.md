@@ -36,5 +36,6 @@
     <a href="https://stbhg5.tistory.com/444" >2.4.4.6 문자열 계산기에 음수를 전달하는 경우 RuntimeException 예외를 throw 한다</a><br/>
     2.5 추가 학습 자료<br/>
     <a href="https://stbhg5.tistory.com/445" >2.5.1 테스트 주도 개발(Test Driven Development, 이하 TDD)과 리팩토링</a><br/>
+    <a href="https://stbhg5.tistory.com/446" >2.5.2 정규 표현식</a><br/>
 
 <br/><br/>
