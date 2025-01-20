@@ -45,6 +45,8 @@
     <a href="https://stbhg5.tistory.com/449" >3.2 로컬 개발 환경 구축</a><br/>
     <a href="https://stbhg5.tistory.com/450" >3.3 원격 서버에 배포</a><br/>
     <a href="https://stbhg5.tistory.com/451" >3.3.1 요구사항</a><br/>
+    3.3.2 힌트<br/>
+    <a href="https://stbhg5.tistory.com/452" >3.3.2.1 계정 추가 및 sudo 권한 할당</a><br/>
 
 <br/><br/>
 
