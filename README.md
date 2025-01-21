@@ -47,7 +47,7 @@
     <a href="https://stbhg5.tistory.com/451" >3.3.1 요구사항</a><br/>
     3.3.2 힌트<br/>
     <a href="https://stbhg5.tistory.com/452" >3.3.2.1 계정 추가 및 sudo 권한 할당</a><br/>
-    <a href="https://stbhg5.tistory.com/453" >3.2.2.2 각 계정별 UTF-8 인코딩 설정해 한글 이슈 해결</a><br/>
+    <a href="https://stbhg5.tistory.com/453" >3.3.2.2 각 계정별 UTF-8 인코딩 설정해 한글 이슈 해결</a><br/>
 
 <br/><br/>
 
