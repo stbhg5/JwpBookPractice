@@ -49,6 +49,7 @@
     <a href="https://stbhg5.tistory.com/452" >3.3.2.1 계정 추가 및 sudo 권한 할당</a><br/>
     <a href="https://stbhg5.tistory.com/453" >3.3.2.2 각 계정별 UTF-8 인코딩 설정해 한글 이슈 해결</a><br/>
     <a href="https://stbhg5.tistory.com/454" >3.3.2.3 JDK, 메이븐 설치</a><br/>
+    <a href="https://stbhg5.tistory.com/455" >3.3.2.4 Git 설치, clone 및 빌드</a><br/>
 
 <br/><br/>
 
