@@ -53,6 +53,7 @@
     <a href="https://stbhg5.tistory.com/456" >3.3.2.5 방화벽 설정</a><br/>
     <a href="https://stbhg5.tistory.com/457" >3.3.2.6 소스코드 재배포</a><br/>
     <a href="https://stbhg5.tistory.com/458" >3.3.3 동영상을 활용한 배포 실습</a><br/>
+    <a href="https://stbhg5.tistory.com/459" >3.3.4 리눅스, 터미널과 친해지기</a><br/>
 
 <br/><br/>
 
