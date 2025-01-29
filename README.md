@@ -56,6 +56,7 @@
     <a href="https://stbhg5.tistory.com/459" >3.3.4 리눅스, 터미널과 친해지기</a><br/>
     3.4 웹 서버 실습<br/>
     <a href="https://stbhg5.tistory.com/460" >3.4.1 실습 전 사전 학습 및 친구 찾기</a><br/>
+    <a href="https://stbhg5.tistory.com/461" >3.4.2 실습 환경 세팅 및 소스코드 분석</a><br/>
 
 <br/><br/>
 
