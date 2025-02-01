@@ -59,6 +59,9 @@
     <a href="https://stbhg5.tistory.com/461" >3.4.2 실습 환경 세팅 및 소스코드 분석</a><br/>
     <a href="https://stbhg5.tistory.com/462" >3.4.3 실습 요구사항</a><br/>
     <a href="https://stbhg5.tistory.com/463" >3.4.3.1 요구사항 1 - index.html 응답하기</a><br/>
+    <a href="https://stbhg5.tistory.com/464" >3.4.3.2 요구사항 2 - GET 방식으로 회원가입하기</a><br/>
+    <a href="https://stbhg5.tistory.com/465" >3.4.3.3 요구사항 3 - POST 방식으로 회원가입하기</a><br/>
+    <a href="https://stbhg5.tistory.com/466" >3.4.3.4 요구사항 4 - 302 status code 적용</a><br/>
 
 <br/><br/>
 
