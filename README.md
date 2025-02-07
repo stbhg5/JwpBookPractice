@@ -68,7 +68,7 @@
     3.5 추가 학습 자료<br/>
     <a href="https://stbhg5.tistory.com/470" >3.5.1 Git과 GitHub</a><br/>
     <a href="https://stbhg5.tistory.com/471" >3.5.2 빌드 도구 메이븐</a><br/>
-    <br/>
+    <a href="https://stbhg5.tistory.com/472" >3.5.3 디버깅을 위한 로깅(logging)</a><br/><br/>
 
 <br/><br/>
 
