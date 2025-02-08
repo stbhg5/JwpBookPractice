@@ -72,3 +72,8 @@
 
 <br/><br/>
 
+<h2><a href="https://stbhg5.tistory.com/473" >4장 HTTP 웹 서버 구현을 통해 HTTP 이해하기</a><h2/><br/>
+
+<br/><br/>
+
+
