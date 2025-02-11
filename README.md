@@ -75,6 +75,7 @@
 <h2><a href="https://stbhg5.tistory.com/473" >4장 HTTP 웹 서버 구현을 통해 HTTP 이해하기</a><h2/><br/>
     <a href="https://stbhg5.tistory.com/474" >4.1 동영상을 활용한 HTTP 웹 서버 실습</a><br/>
     <a href="https://stbhg5.tistory.com/475" >4.2 HTTP 웹 서버 구현</a><br/>
+    <a href="" >4.2.1.1 </a><br/>
     
     
 <br/><br/>
