@@ -77,6 +77,7 @@
     <a href="https://stbhg5.tistory.com/475" >4.2 HTTP 웹 서버 구현</a><br/>
     <a href="https://stbhg5.tistory.com/476" >4.2.1.1 요구사항 1 - index.html 응답하기</a><br/>
     <a href="https://stbhg5.tistory.com/477" >4.2.1.2 요구사항 2 - GET 방식으로 회원가입하기</a><br/>
+    <a href="https://stbhg5.tistory.com/478" >4.2.1.3 요구사항 3 - POST 방식으로 회원가입 하기</a><br/>
     
     
 <br/><br/>
