@@ -78,7 +78,7 @@
     <a href="https://stbhg5.tistory.com/476" >4.2.1.1 요구사항 1 - index.html 응답하기</a><br/>
     <a href="https://stbhg5.tistory.com/477" >4.2.1.2 요구사항 2 - GET 방식으로 회원가입하기</a><br/>
     <a href="https://stbhg5.tistory.com/478" >4.2.1.3 요구사항 3 - POST 방식으로 회원가입 하기</a><br/>
-    <a href="" >4.2.1.4 요구사항 4 - 302 status code 적용</a><br/>
+    <a href="" >4.2.1.4 요구사항 4 - 302 status code 적용</a><br/> (구현중)
     
     
 <br/><br/>
