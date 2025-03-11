@@ -80,7 +80,7 @@
     <a href="https://stbhg5.tistory.com/478" >4.2.1.3 요구사항 3 - POST 방식으로 회원가입 하기</a><br/>
     <a href="https://stbhg5.tistory.com/479" >4.2.1.4 요구사항 4 - 302 status code 적용</a><br/>
     <a href="https://stbhg5.tistory.com/480" >4.2.1.5 요구사항 5 - 로그인하기</a><br/>
-    
+    <a href="https://stbhg5.tistory.com/481" >4.2.1.6 요구사항 6 - 사용자 목록 출력</a><br/>
     
 <br/><br/>
 
