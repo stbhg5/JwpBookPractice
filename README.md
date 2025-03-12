@@ -81,6 +81,7 @@
     <a href="https://stbhg5.tistory.com/479" >4.2.1.4 요구사항 4 - 302 status code 적용</a><br/>
     <a href="https://stbhg5.tistory.com/480" >4.2.1.5 요구사항 5 - 로그인하기</a><br/>
     <a href="https://stbhg5.tistory.com/481" >4.2.1.6 요구사항 6 - 사용자 목록 출력</a><br/>
+    <a href="https://stbhg5.tistory.com/482" >4.2.1.7 요구사항 7 - CSS 지원하기</a><br/>
     
 <br/><br/>
 
