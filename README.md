@@ -82,6 +82,9 @@
     <a href="https://stbhg5.tistory.com/480" >4.2.1.5 요구사항 5 - 로그인하기</a><br/>
     <a href="https://stbhg5.tistory.com/481" >4.2.1.6 요구사항 6 - 사용자 목록 출력</a><br/>
     <a href="https://stbhg5.tistory.com/482" >4.2.1.7 요구사항 7 - CSS 지원하기</a><br/>
+    <a href="https://stbhg5.tistory.com/483" >4.3 추가 학습 자료</a><br/>
+    <a href="https://stbhg5.tistory.com/484" >4.3.1 HTTP</a><br/>
+    <a href="https://stbhg5.tistory.com/485" >4.3.2 네트워크</a><br/>
     
 <br/><br/>
 
