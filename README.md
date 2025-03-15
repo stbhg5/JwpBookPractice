@@ -89,7 +89,8 @@
 <br/><br/>
 
 <h2><a href="https://stbhg5.tistory.com/486" >5장 웹 서버 리팩토링, 서블릿 컨테이너와 서블릿의 관계</a><h2/><br/>
-
+    5.1 HTTP 웹 서버 리팩토링 실습<br/>
+    <a href="https://stbhg5.tistory.com/487" >5.1.1 리팩토링 할 부분 찾기</a><br/>
 
 <br/><br/>
 
