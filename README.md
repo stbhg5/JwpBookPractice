@@ -91,6 +91,8 @@
 <h2><a href="https://stbhg5.tistory.com/486" >5장 웹 서버 리팩토링, 서블릿 컨테이너와 서블릿의 관계</a><h2/><br/>
     5.1 HTTP 웹 서버 리팩토링 실습<br/>
     <a href="https://stbhg5.tistory.com/487" >5.1.1 리팩토링 할 부분 찾기</a><br/>
+    5.1.2 리팩토링 1단계 힌트<br/>
+    <a href="https://stbhg5.tistory.com/488" >5.1.2.1 요청 데이터를 처리하는 로직을 별도의 클래스로 분리한다(HttpRequest)</a><br/>
 
 <br/><br/>
 
