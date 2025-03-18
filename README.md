@@ -94,6 +94,7 @@
     5.1.2 리팩토링 1단계 힌트<br/>
     <a href="https://stbhg5.tistory.com/488" >5.1.2.1 요청 데이터를 처리하는 로직을 별도의 클래스로 분리한다(HttpRequest)</a><br/>
     <a href="https://stbhg5.tistory.com/489" >5.1.2.2 응답 데이터를 처리하는 로직을 별도의 클래스로 분리한다(HttpResponse)</a><br/>
+    <a href="https://stbhg5.tistory.com/490" >5.1.2.3 다형성을 활용해 클라이언트 요청 URL에 대한 분기 처리를 제거한다</a><br/>
 
 <br/><br/>
 
