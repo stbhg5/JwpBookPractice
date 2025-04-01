@@ -1,0 +1,211 @@
+5.2.2 응답 데이터를 처리하는 로직을 별도의 클래스로 분리한다
+
+요청 데이터를 처리하는 로직을 구현하고 리팩토링을 하였다. 대규모 리팩토링을 처음 진행했기 때문에 단계별로 상세히 살펴봤다. 다음 단계로 분리할, 응답 데이터를 처리하는 로직은 빠르게 진행한다. 리팩토링의 시작은 단계적으로 천천히 진행하지만 익숙해지면 단계를 건너뛰고 더 빠른 보폭으로 걸어도 좋다. 장애물을 만나면 다시 속도를 늦추면 된다.
+응답 데이터 처리를 담당하는 HttpResponse 클래스를 추가한다. 이 클래스의 역할은 응답 데이터의 상태에 따라 적절한 HTTP 헤더를 처리한다. 특히 HTML, CSS, 자바스크립트 파일을 읽어 변환하는 부분과 302 상태 코드를 처리하는 것이가능해야 하며, 쿠키 추가와 같이 HTTP 헤더에 임의의 값을 추가할 수 있어야 한다. 이 같은 요구사항을 만족하도록 구현한 HttpResponse 코드는 다음과 같다.
+
+- src/main/java/http/HttpResponse.java
+package http;
+
+import java.io.DataOutputStream;
+import java.io.File;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.nio.file.Files;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class HttpResponse {
+
+    private static final Logger log = LoggerFactory.getLogger(HttpResponse.class);
+    private DataOutputStream dos = null;
+    private Map<String, String> headers = new HashMap<String, String>();
+
+    public HttpResponse(OutputStream out) {
+        dos = new DataOutputStream(out);
+    }
+
+    public void addHeader(String key, String value) {
+        headers.put(key, value);
+    }
+
+    public void forward(String url) {
+        try {
+            byte[] body = Files.readAllBytes(new File("./webapp" + url).toPath());
+            if (url.endsWith(".css")) {
+                headers.put("Content-Type", "text/css");
+            } else if (url.endsWith(".js")) {
+                headers.put("Content-Type", "application/javascript");
+            } else {
+                headers.put("Content-Type", "text/html;charset=utf-8");
+            }
+            headers.put("Content-Length", body.length + "");
+            response200Header(body.length);
+            responseBody(body);
+        } catch (IOException e) {
+            log.error(e.getMessage());
+        }
+    }
+
+    public void forwardBody(String body) {
+        byte[] contents = body.getBytes();
+        headers.put("Content-Type", "text/html;charset=utf-8");
+        headers.put("Content-Length", contents.length + "");
+        response200Header(contents.length);
+        responseBody(contents);
+    }
+
+    public void sendRedirect(String redirectUrl) {
+        try {
+            dos.writeBytes("HTTP/1.1 302 Found \r\n");
+            processHeaders();
+            dos.writeBytes("Location: " + redirectUrl + " \r\n");
+            dos.writeBytes("\r\n");
+        } catch (IOException e) {
+            log.error(e.getMessage());
+        }
+    }
+
+    private void response200Header(int lengthOfBodyContent) {
+        try {
+            dos.writeBytes("HTTP/1.1 200 OK \r\n");
+            processHeaders();
+            dos.writeBytes("\r\n");
+        } catch (IOException e) {
+            log.error(e.getMessage());
+        }
+    }
+
+    private void responseBody(byte[] body) {
+        try {
+            dos.write(body, 0, body.length);
+            dos.writeBytes("\r\n");
+            dos.flush();
+        } catch (IOException e) {
+            log.error(e.getMessage());
+        }
+    }
+
+    private void processHeaders() {
+        try {
+            Set<String> keys = headers.keySet();
+            for (String key : keys) {
+                dos.writeBytes(key + ": " + headers.get(key) + " \r\n");
+            }
+        } catch (IOException e) {
+            log.error(e.getMessage());
+        }
+    }
+
+}
+
+HttpResponse 에 대한 테스트는 2단계 힌트에서 제시한 HttpResponseTest를 실행해 생성된 파일을 통해 수동으로 테스트할 수 있다.
+다음 단계로 RequestHandler 클래스가 HttpResponse 를 사용하도록 리팩토링 한다.
+
+- src/main/java/webserver/RequestHandler.java
+package webserver;
+
+import http.HttpRequest;
+import http.HttpResponse;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.net.Socket;
+import java.util.Collection;
+import java.util.Map;
+
+import model.User;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import util.HttpRequestUtils;
+import db.DataBase;
+
+public class RequestHandler extends Thread {
+
+    private static final Logger log = LoggerFactory.getLogger(RequestHandler.class);
+    private Socket connection;
+
+    public RequestHandler(Socket connectionSocket) {
+        this.connection = connectionSocket;
+    }
+
+    public void run() {
+        log.debug("New Client Connect! Connected IP : {}, Port : {}", connection.getInetAddress(), connection.getPort());
+
+        try (InputStream in = connection.getInputStream(); OutputStream out = connection.getOutputStream()) {
+            HttpRequest request = new HttpRequest(in);
+            HttpResponse response = new HttpResponse(out);
+            String path = getDefaultPath(request.getPath());
+
+            if ("/user/create".equals(path)) {
+                User user = new User(request.getParameter("userId"), request.getParameter("password"), request.getParameter("name"), request.getParameter("email"));
+                log.debug("user : {}", user);
+                DataBase.addUser(user);
+                response.sendRedirect("/index.html");
+            } else if ("/user/login".equals(path)) {
+                User user = DataBase.findUserById(request.getParameter("userId"));
+                if (user != null) {
+                    if (user.login(request.getParameter("password"))) {
+                        response.addHeader("Set-Cookie", "logined=true");
+                        response.sendRedirect("/index.html");
+                    } else {
+                        response.sendRedirect("/user/login_failed.html");
+                    }
+                } else {
+                    response.sendRedirect("/user/login_failed.html");
+                }
+            } else if ("/user/list".equals(path)) {
+                if (!isLogin(request.getHeader("Cookie"))) {
+                    response.sendRedirect("/user/login.html");
+                    return;
+                }
+
+                Collection<User> users = DataBase.findAll();
+                StringBuilder sb = new StringBuilder();
+                sb.append("<table border='1'>");
+                for (User user : users) {
+                    sb.append("<tr>");
+                    sb.append("<td>" + user.getUserId() + "</td>");
+                    sb.append("<td>" + user.getName() + "</td>");
+                    sb.append("<td>" + user.getEmail() + "</td>");
+                    sb.append("</tr>");
+                }
+                sb.append("</table>");
+                response.forwardBody(sb.toString());
+            } else {
+                response.forward(path);
+            }
+        } catch (IOException e) {
+            log.error(e.getMessage());
+        }
+    }
+
+    private boolean isLogin(String cookieValue) {
+        Map<String, String> cookies = HttpRequestUtils.parseCookies(cookieValue);
+        String value = cookies.get("logined");
+        if (value == null) {
+            return false;
+        }
+        return Boolean.parseBoolean(value);
+    }
+
+    private String getDefaultPath(String path) {
+        if (path.equals("/")) {
+            return "/index.html";
+        }
+        return path;
+    }
+
+}
+
+응답 데이터 처리에 대한 책임을 HttpResponse 로 위임했더니 RequestHandler 에서 응답 헤더와 본문 처리를 담당하던 모든 private 메서드를 제거할 수 있었다. RequestHandler 가 많이 깔끔해졌다.
+지금까지 구현한 소스코드는 https://github.com/slipp/web-application-server 저장소의 was-step2-request-response-refactoring 브랜치에서 참고할 수 있다.
+
+
+참고도서 : https://roadbook.co.kr/169
