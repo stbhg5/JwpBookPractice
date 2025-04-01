@@ -98,6 +98,7 @@
     <a href="https://stbhg5.tistory.com/491" >5.2 웹 서버 리팩토링 구현 및 설명</a><br/>
     <a href="https://stbhg5.tistory.com/492" >5.2.1 요청 데이터를 처리하는 로직을 별도의 클래스로 분리한다</a><br/>
     <a href="https://stbhg5.tistory.com/493" >5.2.2 응답 데이터를 처리하는 로직을 별도의 클래스로 분리한다</a><br/>
+    
 
 <br/><br/>
 
