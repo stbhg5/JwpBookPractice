@@ -100,6 +100,7 @@
     <a href="https://stbhg5.tistory.com/493" >5.2.2 응답 데이터를 처리하는 로직을 별도의 클래스로 분리한다</a><br/>
     <a href="https://stbhg5.tistory.com/494" >5.2.3 다형성을 활용해 클라이언트 요청 URL에 대한 분기 처리를 제거한다</a><br/>
     <a href="https://stbhg5.tistory.com/495" >5.2.4 HTTP 웹 서버의 문제점</a><br/>
+    <a href="https://stbhg5.tistory.com/496" >5.3 서블릿 컨테이너, 서블릿/JSP를 활용한 문제 해결</a><br/>
     
 
 <br/><br/>
