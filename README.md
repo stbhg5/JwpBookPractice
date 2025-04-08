@@ -102,7 +102,7 @@
     <a href="https://stbhg5.tistory.com/495" >5.2.4 HTTP 웹 서버의 문제점</a><br/>
     <a href="https://stbhg5.tistory.com/496" >5.3 서블릿 컨테이너, 서블릿/JSP를 활용한 문제 해결</a><br/>
     <a href="https://stbhg5.tistory.com/497" >5.3.1 개발 환경 세팅 및 Hello World 출력</a><br/>
-    <a href="https://stbhg5.tistory.com/498" >5.3.2 서블릿 컨테이너, 서블릿</a><br/>\
+    <a href="https://stbhg5.tistory.com/498" >5.3.2 서블릿 컨테이너, 서블릿</a><br/>
     <a href="https://stbhg5.tistory.com/499" >5.4 추가 학습 자료</a><br/>
 
 <br/><br/>
