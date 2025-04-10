@@ -105,6 +105,7 @@
     <a href="https://stbhg5.tistory.com/498" >5.3.2 서블릿 컨테이너, 서블릿</a><br/>
     <a href="https://stbhg5.tistory.com/499" >5.4 추가 학습 자료</a><br/>
     <a href="https://stbhg5.tistory.com/500" >5.4.1 객체지향 설계와 개발</a><br/>
+    <a href="https://stbhg5.tistory.com/501" >5.4.2 서블릿 & JSP, 웹 애플리케이션 서버</a><br/>
 
 <br/><br/>
 
