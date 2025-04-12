@@ -110,4 +110,6 @@
 
 <br/><br/>
 
+<h2><a href="https://stbhg5.tistory.com/503" >6장 서블릿/JSP를 활용해 동적인 웹 애플리케이션 개발하기</a><h2/><br/>
 
+<br/><br/>
