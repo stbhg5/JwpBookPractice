@@ -112,6 +112,6 @@
 
 <h2><a href="https://stbhg5.tistory.com/503" >6장 서블릿/JSP를 활용해 동적인 웹 애플리케이션 개발하기</a><h2/><br/>
     <a href="https://stbhg5.tistory.com/504" >6.1 서블릿/JSP로 회원관리 기능 다시 개발하기</a><br/>
-    <a href="" >6.1.1 서블릿/JSP 복습</a><br/> (구현중..)
+    <a href="https://stbhg5.tistory.com/505" >6.1.1 서블릿/JSP 복습</a><br/>
 
 <br/><br/>
