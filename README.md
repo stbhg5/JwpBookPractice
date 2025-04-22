@@ -115,5 +115,6 @@
     <a href="https://stbhg5.tistory.com/505" >6.1.1 서블릿/JSP 복습</a><br/>
     <a href="https://stbhg5.tistory.com/506" >6.1.2 개인정보수정 실습</a><br/>
     <a href="https://stbhg5.tistory.com/507" >6.1.3 로그인/로그아웃 기능 실습</a><br/>
+    <a href="https://stbhg5.tistory.com/508" >6.1.4 회원 목록 및 개인정보 수정 보안 강화 실습</a><br/>
 
 <br/><br/>
