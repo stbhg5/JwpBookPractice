@@ -117,5 +117,6 @@
     <a href="https://stbhg5.tistory.com/507" >6.1.3 로그인/로그아웃 기능 실습</a><br/>
     <a href="https://stbhg5.tistory.com/508" >6.1.4 회원 목록 및 개인정보 수정 보안 강화 실습</a><br/>
     <a href="https://stbhg5.tistory.com/509" >6.1.5 중복 코드 제거</a><br/>
+    <a href="https://stbhg5.tistory.com/510" >6.2 세션(HttpSession) 요구사항 및 실습</a><br/>
 
 <br/><br/>
