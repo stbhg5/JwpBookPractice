@@ -119,5 +119,6 @@
     <a href="https://stbhg5.tistory.com/509" >6.1.5 중복 코드 제거</a><br/>
     <a href="https://stbhg5.tistory.com/510" >6.2 세션(HttpSession) 요구사항 및 실습</a><br/>
     <a href="https://stbhg5.tistory.com/511" >6.2.1 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/512" >6.2.2 요구사항 분리 및 힌트</a><br/>
 
 <br/><br/>
