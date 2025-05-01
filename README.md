@@ -122,5 +122,6 @@
     <a href="https://stbhg5.tistory.com/512" >6.2.2 요구사항 분리 및 힌트</a><br/>
     6.3 세션(HttpSession) 구현<br/>
     <a href="https://stbhg5.tistory.com/513" >6.3.1 고유한 아이디 생성</a><br/>
+    <a href="https://stbhg5.tistory.com/514" >6.3.2 쿠키를 활용해 아이디 전달</a><br/>
 
 <br/><br/>
