@@ -125,6 +125,6 @@
     <a href="https://stbhg5.tistory.com/514" >6.3.2 쿠키를 활용해 아이디 전달</a><br/>
     <a href="https://stbhg5.tistory.com/515" >6.3.3 모든 클라이언트의 세션 데이터에 대한 저장소 추가</a><br/>
     <a href="https://stbhg5.tistory.com/516" >6.3.4 클라이언트별 세션 저장소 추가</a><br/>
-    <a href="https://stbhg5.tistory.com/517" >6.4 MVC 프레임워크 요구사항 1단계</a><br/> (구현중)
+    <a href="https://stbhg5.tistory.com/517" >6.4 MVC 프레임워크 요구사항 1단계</a><br/>
 
 <br/><br/>
