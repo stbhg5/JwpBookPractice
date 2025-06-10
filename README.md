@@ -127,5 +127,6 @@
     <a href="https://stbhg5.tistory.com/516" >6.3.4 클라이언트별 세션 저장소 추가</a><br/>
     <a href="https://stbhg5.tistory.com/517" >6.4 MVC 프레임워크 요구사항 1단계</a><br/>
     <a href="https://stbhg5.tistory.com/518" >6.4.1 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/519" >6.4.2 요구사항 분리 및 힌트</a><br/>
 
 <br/><br/>
