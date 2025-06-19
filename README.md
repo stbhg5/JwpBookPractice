@@ -130,5 +130,8 @@
     <a href="https://stbhg5.tistory.com/519" >6.4.2 요구사항 분리 및 힌트</a><br/>
     <a href="https://stbhg5.tistory.com/520" >6.5 MVC 프레임워크 구현 1단계</a><br/>
     <a href="https://stbhg5.tistory.com/521" >6.6 쉘 스크립트를 활용한 배포 자동화</a><br/>
+    <a href="https://stbhg5.tistory.com/522" >6.6.1 요구사항</a><br/>
+    6.6.2 힌트<br/>
+    <a href="https://stbhg5.tistory.com/523" >6.6.2.1 톰캣 서버 설치</a><br/>
 
 <br/><br/>
