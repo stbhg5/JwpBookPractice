@@ -133,5 +133,7 @@
     <a href="https://stbhg5.tistory.com/522" >6.6.1 요구사항</a><br/>
     6.6.2 힌트<br/>
     <a href="https://stbhg5.tistory.com/523" >6.6.2.1 톰캣 서버 설치</a><br/>
+    <a href="https://stbhg5.tistory.com/524" >6.6.2.2 실습 코드 배포</a><br/>
+    <a href="https://stbhg5.tistory.com/525" >6.6.2.3 톰캣 서버 로그 모니터링</a><br/>
 
 <br/><br/>
