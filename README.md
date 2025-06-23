@@ -135,5 +135,6 @@
     <a href="https://stbhg5.tistory.com/523" >6.6.2.1 톰캣 서버 설치</a><br/>
     <a href="https://stbhg5.tistory.com/524" >6.6.2.2 실습 코드 배포</a><br/>
     <a href="https://stbhg5.tistory.com/525" >6.6.2.3 톰캣 서버 로그 모니터링</a><br/>
+    <a href="https://stbhg5.tistory.com/526" >6.6.2.4 쉘 스크립트 통해 배포 자동화</a><br/>
 
 <br/><br/>
