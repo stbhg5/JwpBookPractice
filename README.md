@@ -137,5 +137,7 @@
     <a href="https://stbhg5.tistory.com/525" >6.6.2.3 톰캣 서버 로그 모니터링</a><br/>
     <a href="https://stbhg5.tistory.com/526" >6.6.2.4 쉘 스크립트 통해 배포 자동화</a><br/>
     <a href="https://stbhg5.tistory.com/527" >6.6.3 동영상을 참고한 배포 자동화 실습</a><br/>
+    6.7 추가 학습 자료<br/>
+    <a href="https://stbhg5.tistory.com/528" >6.7.1 쿠키와 세션, 보안</a><br/>
 
 <br/><br/>
