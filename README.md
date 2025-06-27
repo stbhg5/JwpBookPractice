@@ -139,5 +139,6 @@
     <a href="https://stbhg5.tistory.com/527" >6.6.3 동영상을 참고한 배포 자동화 실습</a><br/>
     6.7 추가 학습 자료<br/>
     <a href="https://stbhg5.tistory.com/528" >6.7.1 쿠키와 세션, 보안</a><br/>
+    <a href="https://stbhg5.tistory.com/529" >6.7.2 쉘 스크립트와 배포 자동화</a><br/>
 
 <br/><br/>
