@@ -142,3 +142,9 @@
     <a href="https://stbhg5.tistory.com/529" >6.7.2 쉘 스크립트와 배포 자동화</a><br/>
 
 <br/><br/>
+
+<h2><a href="https://stbhg5.tistory.com/530" >7장 DB를 활용해 데이터를 영구적으로 저장하기</a><h2/><br/>
+
+
+
+<br/><br/>
