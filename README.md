@@ -145,6 +145,6 @@
 
 <h2><a href="https://stbhg5.tistory.com/530" >7장 DB를 활용해 데이터를 영구적으로 저장하기</a><h2/><br/>
     <a href="https://stbhg5.tistory.com/531" >7.1 회원 데이터를 DB에 저장하기 실습</a><br/>
-    <a href="" >7.1.1 실습 코드 리뷰 및 JDBC 복습</a><br/>  (구현중)
+    <a href="" >7.1.1 실습 코드 리뷰 및 JDBC 복습</a><br/> (구현중)
 
 <br/><br/>
