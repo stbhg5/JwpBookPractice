@@ -148,6 +148,6 @@
     <a href="https://stbhg5.tistory.com/532" >7.1.1 실습 코드 리뷰 및 JDBC 복습</a><br/>
     <a href="https://stbhg5.tistory.com/533" >7.1.2 회원 목록 실습</a><br/>
     <a href="https://stbhg5.tistory.com/534" >7.1.3 개인정보 수정 실습</a><br/>
-    <a href="" >7.2 DAO 리팩토링 실습</a><br/> (구현중)
+    <a href="https://stbhg5.tistory.com/535" >7.2 DAO 리팩토링 실습</a><br/>
 
 <br/><br/>
