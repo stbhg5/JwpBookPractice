@@ -149,5 +149,6 @@
     <a href="https://stbhg5.tistory.com/533" >7.1.2 회원 목록 실습</a><br/>
     <a href="https://stbhg5.tistory.com/534" >7.1.3 개인정보 수정 실습</a><br/>
     <a href="https://stbhg5.tistory.com/535" >7.2 DAO 리팩토링 실습</a><br/>
+    <a href="https://stbhg5.tistory.com/536" >7.2.1 요구사항</a><br/>
 
 <br/><br/>
