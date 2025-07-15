@@ -153,5 +153,6 @@
     <a href="https://stbhg5.tistory.com/537" >7.2.2 요구사항 분리 및 힌트</a><br/>
     <a href="https://stbhg5.tistory.com/538" >7.3 동영상을 활용한 DAO 리팩토링 실습</a><br/>
     7.4 DAO 리팩토링 및 설명<br/>
+    <a href="https://stbhg5.tistory.com/539" >7.4.1 메서드 분리</a><br/>
 
 <br/><br/>
