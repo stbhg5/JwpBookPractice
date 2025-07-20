@@ -157,6 +157,6 @@
     <a href="https://stbhg5.tistory.com/540" >7.4.2 클래스 분리</a><br/>
     <a href="https://stbhg5.tistory.com/541" >7.4.3 UserDao와 InsertJdbcTemplate의 의존관계 분리</a><br/>
     <a href="https://stbhg5.tistory.com/542" >7.4.4 InsertJdbcTemplate 과 UpdateJdbcTemplate 통합</a><br/>
-    <a href="" >7.4.5 User 의존관계 제거 및 SQL 쿼리 인자로 전달</a><br/> (구현중)
+    <a href="https://stbhg5.tistory.com/543" >7.4.5 User 의존관계 제거 및 SQL 쿼리 인자로 전달</a><br/>
 
 <br/><br/>
