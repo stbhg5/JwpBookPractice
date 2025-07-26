@@ -162,5 +162,6 @@
     <a href="https://stbhg5.tistory.com/545" >7.4.7 JdbcTemplate 과 SelectJdbcTemplate 통합하기</a><br/>
     <a href="https://stbhg5.tistory.com/546" >7.4.8 인터페이스 추가를 통한 문제점 해결</a><br/>
     <a href="https://stbhg5.tistory.com/547" >7.4.9 런타임 Exception 추가 및 AutoClosable 활용한 자원 반환</a><br/>
+    <a href="https://stbhg5.tistory.com/548" >7.4.10 제너릭(generic)을 활용한 개선</a><br/>
 
 <br/><br/>
