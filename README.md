@@ -163,5 +163,6 @@
     <a href="https://stbhg5.tistory.com/546" >7.4.8 인터페이스 추가를 통한 문제점 해결</a><br/>
     <a href="https://stbhg5.tistory.com/547" >7.4.9 런타임 Exception 추가 및 AutoClosable 활용한 자원 반환</a><br/>
     <a href="https://stbhg5.tistory.com/548" >7.4.10 제너릭(generic)을 활용한 개선</a><br/>
+    <a href="https://stbhg5.tistory.com/549" >7.4.11 가변인자를 활용해 쿼리에 인자 전달하기</a><br/>
 
 <br/><br/>
