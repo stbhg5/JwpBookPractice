@@ -168,5 +168,7 @@
     7.5 추가 학습 자료<br/>
     <a href="https://stbhg5.tistory.com/551" >7.5.1 데이터베이스</a><br/>
     <a href="https://stbhg5.tistory.com/552" >7.5.2 디자인 패턴</a><br/>
-
+    
 <br/><br/>
+
+<h2><a href="https://stbhg5.tistory.com/553" >8장 AJAX를 활용해 새로고침 없이 데이터 갱신하기</a><h2/><br/>
