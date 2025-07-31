@@ -172,3 +172,7 @@
 <br/><br/>
 
 <h2><a href="https://stbhg5.tistory.com/553" >8장 AJAX를 활용해 새로고침 없이 데이터 갱신하기</a><h2/><br/>
+    <a href="https://stbhg5.tistory.com/554" >8.1 질문/답변 게시판 구현</a><br/>
+    <a href="https://stbhg5.tistory.com/555" >8.2 AJAX 활용해 답변 추가, 삭제 실습</a><br/>
+
+<br/><br/>
