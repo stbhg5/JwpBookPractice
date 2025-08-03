@@ -175,5 +175,6 @@
     <a href="https://stbhg5.tistory.com/554" >8.1 질문/답변 게시판 구현</a><br/>
     <a href="https://stbhg5.tistory.com/555" >8.2 AJAX 활용해 답변 추가, 삭제 실습</a><br/>
     <a href="https://stbhg5.tistory.com/556" >8.2.1 답변하기</a><br/>
+    <a href="https://stbhg5.tistory.com/557" >8.2.2 답변 삭제하기 실습</a><br/>
 
 <br/><br/>
