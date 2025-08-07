@@ -177,6 +177,8 @@
     <a href="https://stbhg5.tistory.com/556" >8.2.1 답변하기</a><br/>
     <a href="https://stbhg5.tistory.com/557" >8.2.2 답변 삭제하기 실습</a><br/>
     <a href="https://stbhg5.tistory.com/558" >8.3 MVC 프레임워크 요구사항 2단계</a><br/>
-    <a href="" >8.3.1 요구사항 분리 및 힌트</a><br/> (구현중)
+    <a href="https://stbhg5.tistory.com/559" >8.3.1 요구사항 분리 및 힌트</a><br/>
+    8.4 MVC 프레임워크 구현 2단계<br/>
+    <a href="https://stbhg5.tistory.com/560" >8.4.1 View 인터페이스 추가</a><br/>
 
 <br/><br/>
