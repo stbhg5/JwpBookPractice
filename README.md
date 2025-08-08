@@ -180,5 +180,7 @@
     <a href="https://stbhg5.tistory.com/559" >8.3.1 요구사항 분리 및 힌트</a><br/>
     8.4 MVC 프레임워크 구현 2단계<br/>
     <a href="https://stbhg5.tistory.com/560" >8.4.1 View 인터페이스 추가</a><br/>
+    <a href="https://stbhg5.tistory.com/561" >8.4.2 JspView 와 JsonView 추가</a><br/>
+    <a href="https://stbhg5.tistory.com/562" >8.4.3 Controller 반환 값을 String 에서 View 로 수정</a><br/>
 
 <br/><br/>
