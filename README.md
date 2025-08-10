@@ -182,5 +182,7 @@
     <a href="https://stbhg5.tistory.com/560" >8.4.1 View 인터페이스 추가</a><br/>
     <a href="https://stbhg5.tistory.com/561" >8.4.2 JspView 와 JsonView 추가</a><br/>
     <a href="https://stbhg5.tistory.com/562" >8.4.3 Controller 반환 값을 String 에서 View 로 수정</a><br/>
+    <a href="https://stbhg5.tistory.com/563" >8.4.4 Controller 구현체가 String 대신 View 를 반환하도록 수정</a><br/>
+    <a href="https://stbhg5.tistory.com/564" >8.4.5 DispatcherServlet 이 View 에 작업을 위임하도록 수정</a><br/>
 
 <br/><br/>
