@@ -185,5 +185,7 @@
     <a href="https://stbhg5.tistory.com/563" >8.4.4 Controller 구현체가 String 대신 View 를 반환하도록 수정</a><br/>
     <a href="https://stbhg5.tistory.com/564" >8.4.5 DispatcherServlet 이 View 에 작업을 위임하도록 수정</a><br/>
     <a href="https://stbhg5.tistory.com/565" >8.4.6 ModelAndView 추가를 통한 모델 추상화</a><br/>
+    8.5 추가 학습 자료<br/>
+    <a href="https://stbhg5.tistory.com/568" >8.5.1 REST API 설계 및 개발</a><br/>
 
 <br/><br/>
