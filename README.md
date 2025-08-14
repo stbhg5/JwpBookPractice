@@ -189,3 +189,8 @@
     <a href="https://stbhg5.tistory.com/568" >8.5.1 REST API 설계 및 개발</a><br/>
 
 <br/><br/>
+
+<h2><a href="https://stbhg5.tistory.com/569" >9장 두 번째 양파 껍질을 벗기기 위한 중간 점검</a><h2/><br/>
+
+
+<br/><br/>
