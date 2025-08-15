@@ -191,6 +191,7 @@
 <br/><br/>
 
 <h2><a href="https://stbhg5.tistory.com/569" >9장 두 번째 양파 껍질을 벗기기 위한 중간 점검</a><h2/><br/>
+    <a href="https://stbhg5.tistory.com/570" >9.1 자체 점검 요구사항(필수)</a><br/>
 
 
 <br/><br/>
