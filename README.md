@@ -194,6 +194,7 @@
     <a href="https://stbhg5.tistory.com/570" >9.1 자체 점검 요구사항(필수)</a><br/>
     <a href="https://stbhg5.tistory.com/571" >9.2 자체 점검 요구사항(선택)</a><br/>
     <a href="https://stbhg5.tistory.com/572" >9.3 자체 점검 확인</a><br/>
+    <a href="https://stbhg5.tistory.com/573" >9.3.1 서블릿 컨테이너와 MVC 프레임워크 초기화 과정(1번)</a><br/>
 
 
 <br/><br/>
