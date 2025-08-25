@@ -197,6 +197,7 @@
     <a href="https://stbhg5.tistory.com/573" >9.3.1 서블릿 컨테이너와 MVC 프레임워크 초기화 과정(1번)</a><br/>
     <a href="https://stbhg5.tistory.com/574" >9.3.2 첫 화면에 접근했을 때 사용자 요청부터 응답까지 흐름(2번)</a><br/>
     <a href="https://stbhg5.tistory.com/575" >9.3.3 스택과 힙 메모리(7번)</a><br/>
+    <a href="https://stbhg5.tistory.com/576" >9.3.4 안전한 웹 애플리케이션 개발(11번)</a><br/>
 
 
 <br/><br/>
