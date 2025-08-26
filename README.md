@@ -198,6 +198,7 @@
     <a href="https://stbhg5.tistory.com/574" >9.3.2 첫 화면에 접근했을 때 사용자 요청부터 응답까지 흐름(2번)</a><br/>
     <a href="https://stbhg5.tistory.com/575" >9.3.3 스택과 힙 메모리(7번)</a><br/>
     <a href="https://stbhg5.tistory.com/576" >9.3.4 안전한 웹 애플리케이션 개발(11번)</a><br/>
+    <a href="" >9.3.5 싱글톤 패턴(12번)</a><br/> (구현중)
 
 
 <br/><br/>
