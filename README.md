@@ -199,7 +199,8 @@
     <a href="https://stbhg5.tistory.com/575" >9.3.3 스택과 힙 메모리(7번)</a><br/>
     <a href="https://stbhg5.tistory.com/576" >9.3.4 안전한 웹 애플리케이션 개발(11번)</a><br/>
     <a href="https://stbhg5.tistory.com/577" >9.3.5 싱글톤 패턴(12번)</a><br/>
-    <a href="" >9.3.6 서비스(Service) 클래스 추가를 통한 컨트롤러 중복 제거(14번)</a><br/>  (구현중)
-
+    <a href="https://stbhg5.tistory.com/578" >9.3.6 서비스(Service) 클래스 추가를 통한 컨트롤러 중복 제거(14번)</a><br/>
+    <a href="https://stbhg5.tistory.com/582" >9.3.7 의존관계 주입(Dependency Injection, 14번 문제)</a><br/>
+    <a href="https://stbhg5.tistory.com/583" >9.3.8 어노테이션을 통한 Controller 설정(15번 문제)</a><br/>
 
 <br/><br/>
