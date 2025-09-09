@@ -208,5 +208,6 @@
 <h2><a href="https://stbhg5.tistory.com/584" >10장 새로운 MVC 프레임워크 구현을 통한 점진적 개선</a><h2/><br/>
     <a href="https://stbhg5.tistory.com/585" >10.1 MVC 프레임워크 요구사항 3단계</a><br/>
     <a href="https://stbhg5.tistory.com/586" >10.1.1 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/587" >10.1.2 자바 리플렉션</a><br/>
 
 <br/><br/>
