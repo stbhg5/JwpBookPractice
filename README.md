@@ -209,5 +209,6 @@
     <a href="https://stbhg5.tistory.com/585" >10.1 MVC 프레임워크 요구사항 3단계</a><br/>
     <a href="https://stbhg5.tistory.com/586" >10.1.1 요구사항</a><br/>
     <a href="https://stbhg5.tistory.com/587" >10.1.2 자바 리플렉션</a><br/>
+    <a href="https://stbhg5.tistory.com/588" >10.1.2.1 자바 리플렉션 API 활용해 클래스 정보 출력하기</a><br/>
 
 <br/><br/>
