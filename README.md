@@ -212,5 +212,6 @@
     <a href="https://stbhg5.tistory.com/588" >10.1.2.1 자바 리플렉션 API 활용해 클래스 정보 출력하기</a><br/>
     <a href="https://stbhg5.tistory.com/589" >10.1.2.2 "test"로 시작하는 메서드 실행하기</a><br/>
     <a href="https://stbhg5.tistory.com/590" >10.1.2.3 @MyTest 어노테이션으로 설정된 메서드 실행하기</a><br/>
+    <a href="https://stbhg5.tistory.com/591" >10.1.2.4 생성자가 있는 클래스의 인스턴스 생성하기</a><br/>
 
 <br/><br/>
