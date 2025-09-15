@@ -214,5 +214,6 @@
     <a href="https://stbhg5.tistory.com/590" >10.1.2.3 @MyTest 어노테이션으로 설정된 메서드 실행하기</a><br/>
     <a href="https://stbhg5.tistory.com/591" >10.1.2.4 생성자가 있는 클래스의 인스턴스 생성하기</a><br/>
     <a href="https://stbhg5.tistory.com/592" >10.1.2.5 private 필드에 접근하기</a><br/>
+    <a href="" >10.1.3 요구사항 분리 및 힌트</a><br/> (구현중)
 
 <br/><br/>
