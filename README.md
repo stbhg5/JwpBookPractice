@@ -215,5 +215,7 @@
     <a href="https://stbhg5.tistory.com/591" >10.1.2.4 생성자가 있는 클래스의 인스턴스 생성하기</a><br/>
     <a href="https://stbhg5.tistory.com/592" >10.1.2.5 private 필드에 접근하기</a><br/>
     <a href="https://stbhg5.tistory.com/593" >10.1.3 요구사항 분리 및 힌트</a><br/>
+    10.2 MVC 프레임워크 구현 3단계<br/>
+    <a href="https://stbhg5.tistory.com/596" >10.2.1 @Controller 어노테이션 설정 클래스 스캔</a><br/>
 
 <br/><br/>
