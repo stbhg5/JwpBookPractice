@@ -217,5 +217,6 @@
     <a href="https://stbhg5.tistory.com/593" >10.1.3 요구사항 분리 및 힌트</a><br/>
     10.2 MVC 프레임워크 구현 3단계<br/>
     <a href="https://stbhg5.tistory.com/596" >10.2.1 @Controller 어노테이션 설정 클래스 스캔</a><br/>
+    <a href="" >10.2.2 @RequestMapping 어노테이션 설정을 활용한 매핑</a><br/> (구현중)
 
 <br/><br/>
