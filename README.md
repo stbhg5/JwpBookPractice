@@ -219,5 +219,6 @@
     <a href="https://stbhg5.tistory.com/596" >10.2.1 @Controller 어노테이션 설정 클래스 스캔</a><br/>
     <a href="https://stbhg5.tistory.com/601" >10.2.2 @RequestMapping 어노테이션 설정을 활용한 매핑</a><br/>
     <a href="https://stbhg5.tistory.com/603" >10.2.3 클라이언트 요청에 해당하는 HandlerExecution 반환</a><br/>
+    <a href="" >10.2.4 DispatcherServlet 과 AnnotationHandlerMapping 통합</a><br/> (구현중)
 
 <br/><br/>
