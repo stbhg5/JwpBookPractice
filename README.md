@@ -220,5 +220,10 @@
     <a href="https://stbhg5.tistory.com/601" >10.2.2 @RequestMapping 어노테이션 설정을 활용한 매핑</a><br/>
     <a href="https://stbhg5.tistory.com/603" >10.2.3 클라이언트 요청에 해당하는 HandlerExecution 반환</a><br/>
     <a href="https://stbhg5.tistory.com/604" >10.2.4 DispatcherServlet 과 AnnotationHandlerMapping 통합</a><br/>
+    <a href="https://stbhg5.tistory.com/608" >10.3 인터페이스가 다른 경우 확장성 있는 설계</a><br/>
+    <a href="https://stbhg5.tistory.com/613" >10.4 배포 자동화를 위한 쉘 스크립트 개선</a><br/>
+    <a href="https://stbhg5.tistory.com/614" >10.4.1 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/615" >10.4.2 1단계 힌트</a><br/>
+    <a href="" ></a><br/>
 
 <br/><br/>
