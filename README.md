@@ -224,6 +224,9 @@
     <a href="https://stbhg5.tistory.com/613" >10.4 배포 자동화를 위한 쉘 스크립트 개선</a><br/>
     <a href="https://stbhg5.tistory.com/614" >10.4.1 요구사항</a><br/>
     <a href="https://stbhg5.tistory.com/615" >10.4.2 1단계 힌트</a><br/>
+    10.4.3 2단계 힌트<br/>
+    <a href="https://stbhg5.tistory.com/617" >10.4.3.1 배포 스크립트 구현</a><br/>
+    <a href="https://stbhg5.tistory.com/618" >10.4.3.2 원복(롤백) 스크립트 구현</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
