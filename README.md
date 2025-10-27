@@ -227,6 +227,8 @@
     10.4.3 2단계 힌트<br/>
     <a href="https://stbhg5.tistory.com/617" >10.4.3.1 배포 스크립트 구현</a><br/>
     <a href="https://stbhg5.tistory.com/618" >10.4.3.2 원복(롤백) 스크립트 구현</a><br/>
-    <a href="" ></a><br/>
+    <a href="https://stbhg5.tistory.com/620" >10.4.4 동영상을 통한 배포/원복</a><br/>
 
 <br/><br/>
+
+    <a href="" ></a><br/>
