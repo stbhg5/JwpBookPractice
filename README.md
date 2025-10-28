@@ -231,8 +231,10 @@
 
 <br/><br/>
 
+<h2><a href="https://stbhg5.tistory.com/622" >11장 의존관계 주입(이하 DI)을 통한 테스트하기 쉬운 코드 만들기</a><h2/><br/>
     <a href="" ></a><br/>
     <a href="" ></a><br/>
-    
+
+<br/><br/>
     
     <a href="" ></a><br/>
