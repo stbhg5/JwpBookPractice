@@ -233,8 +233,9 @@
 
 <h2><a href="https://stbhg5.tistory.com/622" >11장 의존관계 주입(이하 DI)을 통한 테스트하기 쉬운 코드 만들기</a><h2/><br/>
     <a href="https://stbhg5.tistory.com/623" >11.1 왜 DI가 필요한가?</a><br/>
+    <a href="https://stbhg5.tistory.com/626" >11.2 DI를 적용하면서 쌓이는 불편함(불만)</a><br/>
+    <a href="https://stbhg5.tistory.com/629" >11.3 불만 해소하기</a><br/>
+    <a href="https://stbhg5.tistory.com/630" >11.3.1 싱글톤 패턴을 제거한 DI</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
-    
-    <a href="" ></a><br/>
