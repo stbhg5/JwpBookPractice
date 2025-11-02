@@ -236,6 +236,7 @@
     <a href="https://stbhg5.tistory.com/626" >11.2 DI를 적용하면서 쌓이는 불편함(불만)</a><br/>
     <a href="https://stbhg5.tistory.com/629" >11.3 불만 해소하기</a><br/>
     <a href="https://stbhg5.tistory.com/630" >11.3.1 싱글톤 패턴을 제거한 DI</a><br/>
+    <a href="https://stbhg5.tistory.com/631" >11.3.2 Mockito 를 활용한 테스트</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
