@@ -237,6 +237,7 @@
     <a href="https://stbhg5.tistory.com/629" >11.3 불만 해소하기</a><br/>
     <a href="https://stbhg5.tistory.com/630" >11.3.1 싱글톤 패턴을 제거한 DI</a><br/>
     <a href="https://stbhg5.tistory.com/631" >11.3.2 Mockito 를 활용한 테스트</a><br/>
+    <a href="https://stbhg5.tistory.com/632" >11.3.3 DI보다 우선하는 객체지향 개발</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
