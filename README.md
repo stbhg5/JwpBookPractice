@@ -240,6 +240,8 @@
     <a href="https://stbhg5.tistory.com/632" >11.3.3 DI보다 우선하는 객체지향 개발</a><br/>
     11.4 DI 프레임워크 실습<br/>
     <a href="https://stbhg5.tistory.com/640" >11.4.1 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/642" >11.4.2 1단계 힌트</a><br/>
+    <a href="https://stbhg5.tistory.com/643" >11.4.3 2단계 힌트</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
