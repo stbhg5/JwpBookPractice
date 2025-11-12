@@ -248,4 +248,9 @@
 
 <br/><br/>
 
-<a href="" ></a><br/>
+<h2><a href="https://stbhg5.tistory.com/650" >12장 확장성 있는 DI 프레임워크로 개선</a><h2/><br/>
+    12.1 필드와 setter 메서드에 @Inject 기능 추가<br/>
+    <a href="https://stbhg5.tistory.com/651" >12.1.1 요구사항</a><br/>
+    <a href="" ></a><br/>
+
+<br/><br/>
