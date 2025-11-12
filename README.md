@@ -244,6 +244,8 @@
     <a href="https://stbhg5.tistory.com/643" >11.4.3 2단계 힌트</a><br/>
     <a href="https://stbhg5.tistory.com/645" >11.4.4 추가 요구사항 및 힌트</a><br/>
     <a href="https://stbhg5.tistory.com/648" >11.5 DI 프레임워크 구현</a><br/>
-    <a href="" ></a><br/>
+    <a href="https://stbhg5.tistory.com/649" >11.6 추가 학습 자료 / 11.6.1 의존관계 주입(DI)</a><br/>
 
 <br/><br/>
+
+<a href="" ></a><br/>
