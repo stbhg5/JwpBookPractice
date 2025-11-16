@@ -253,7 +253,7 @@
     <a href="https://stbhg5.tistory.com/651" >12.1.1 요구사항</a><br/>
     <a href="https://stbhg5.tistory.com/653" >12.1.2 1단계 힌트 - 클래스 설계</a><br/>
     <a href="https://stbhg5.tistory.com/654" >12.1.3 2단계 힌트</a><br/>
-    <a href="" >12.1.4 중복 제거를 위한 힌트</a><br/> (구현중)
+    <a href="https://stbhg5.tistory.com/655" >12.1.4 중복 제거를 위한 힌트</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
