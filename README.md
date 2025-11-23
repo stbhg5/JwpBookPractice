@@ -256,6 +256,7 @@
     <a href="https://stbhg5.tistory.com/655" >12.1.4 중복 제거를 위한 힌트</a><br/>
     <a href="https://stbhg5.tistory.com/657" >12.2 필드와 setter 메서드 @Inject 구현</a><br/>
     <a href="https://stbhg5.tistory.com/659" >12.3 @Inject 개선</a><br/>
+    <a href="https://stbhg5.tistory.com/662" >12.4 설정 추가를 통한 유연성 확보</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
