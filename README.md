@@ -258,6 +258,7 @@
     <a href="https://stbhg5.tistory.com/659" >12.3 @Inject 개선</a><br/>
     <a href="https://stbhg5.tistory.com/662" >12.4 설정 추가를 통한 유연성 확보</a><br/>
     <a href="https://stbhg5.tistory.com/664" >12.4.1 ServletContainerInitializer 를 활용해 web.xml 없이 웹 개발하기</a><br/>
+    <a href="https://stbhg5.tistory.com/667" >12.4.2 @Component 어노테이션 지원</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
