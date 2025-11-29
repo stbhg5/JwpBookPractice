@@ -261,6 +261,7 @@
     <a href="https://stbhg5.tistory.com/667" >12.4.2 @Component 어노테이션 지원</a><br/>
     12.5 외부 라이브러리 클래스를 빈으로 등록하기<br/>
     <a href="https://stbhg5.tistory.com/670" >12.5.1 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/671" >12.5.2 1단계 힌트</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
