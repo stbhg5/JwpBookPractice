@@ -262,7 +262,7 @@
     12.5 외부 라이브러리 클래스를 빈으로 등록하기<br/>
     <a href="https://stbhg5.tistory.com/670" >12.5.1 요구사항</a><br/>
     <a href="https://stbhg5.tistory.com/671" >12.5.2 1단계 힌트</a><br/>
-    12.5.3 2단계 힌트
+    12.5.3 2단계 힌트<br/>
     <a href="https://stbhg5.tistory.com/673" >12.5.3.1 단위 테스트 코드 만들기</a><br/>
     <a href="https://stbhg5.tistory.com/674" >12.5.3.2 BeanFactory 에 BeanDefinition 추가</a><br/>
     <a href="" ></a><br/>
