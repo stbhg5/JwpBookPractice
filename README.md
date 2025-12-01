@@ -265,6 +265,8 @@
     12.5.3 2단계 힌트<br/>
     <a href="https://stbhg5.tistory.com/673" >12.5.3.1 단위 테스트 코드 만들기</a><br/>
     <a href="https://stbhg5.tistory.com/674" >12.5.3.2 BeanFactory 에 BeanDefinition 추가</a><br/>
+    <a href="https://stbhg5.tistory.com/676" >12.5.3.3 빈 인스턴스 생성 및 의존관계 주입</a><br/>
+    <a href="https://stbhg5.tistory.com/677" >12.5.3.4 ApplicationContext 가 설정 파일을 사용하도록 리팩토링</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
