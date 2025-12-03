@@ -268,6 +268,7 @@
     <a href="https://stbhg5.tistory.com/676" >12.5.3.3 빈 인스턴스 생성 및 의존관계 주입</a><br/>
     <a href="https://stbhg5.tistory.com/677" >12.5.3.4 ApplicationContext 가 설정 파일을 사용하도록 리팩토링</a><br/>
     <a href="https://stbhg5.tistory.com/680" >12.5.3.5 AnnotationHandlerMapping 에 ApplicationContext 를 DI</a><br/>
+    <a href="https://stbhg5.tistory.com/681" >12.6 초기화 기능 추가</a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
