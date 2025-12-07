@@ -276,7 +276,15 @@
     12.8.3 2단계 힌트<br/>
     <a href="https://stbhg5.tistory.com/691" >12.8.3.1 nginx 설치</a><br/>
     <a href="https://stbhg5.tistory.com/692" >12.8.3.2 nginx 와 톰캣 서버 연결</a><br/>
-    <a href="" ></a><br/>
-    <a href="" ></a><br/>
+    <a href="https://stbhg5.tistory.com/693" >12.8.3.3 점검 페이지 준비 및 수동으로 점검 페이지 변경</a><br/>
+    <a href="https://stbhg5.tistory.com/694" >12.8.3.4 쉘 스크립트를 통한 배포 자동화</a><br/>
+    <a href="https://stbhg5.tistory.com/695" >12.8.4 동영상을 통한 배포 실습</a><br/>
+    <a href="https://stbhg5.tistory.com/696" >12.8.5 빌드/배포 자동화와 관련한 단상</a><br/>
 
+<br/><br/>
+
+<h2><a href="https://stbhg5.tistory.com/697" >13장 세 번째 양파 껍질 벗기기</a><h2/><br/>
+    <a href="" ></a><br/>
+    <a href="" ></a><br/>
+    
 <br/><br/>
