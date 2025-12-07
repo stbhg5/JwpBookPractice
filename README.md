@@ -270,6 +270,13 @@
     <a href="https://stbhg5.tistory.com/680" >12.5.3.5 AnnotationHandlerMapping 에 ApplicationContext 를 DI</a><br/>
     <a href="https://stbhg5.tistory.com/681" >12.6 초기화 기능 추가</a><br/>
     <a href="https://stbhg5.tistory.com/683" >12.7 인터페이스, DI, DI 컨테이너</a><br/>
+    <a href="https://stbhg5.tistory.com/688" >12.8 웹 서버 도입을 통한 서비스 운영</a><br/>
+    <a href="https://stbhg5.tistory.com/689" >12.8.1 요구사항</a><br/>
+    <a href="https://stbhg5.tistory.com/690" >12.8.2 1단계 힌트</a><br/>
+    12.8.3 2단계 힌트<br/>
+    <a href="https://stbhg5.tistory.com/691" >12.8.3.1 nginx 설치</a><br/>
+    <a href="https://stbhg5.tistory.com/692" >12.8.3.2 nginx 와 톰캣 서버 연결</a><br/>
+    <a href="" ></a><br/>
     <a href="" ></a><br/>
 
 <br/><br/>
