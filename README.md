@@ -284,7 +284,7 @@
 <br/><br/>
 
 <h2><a href="https://stbhg5.tistory.com/697" >13장 세 번째 양파 껍질 벗기기</a><h2/><br/>
-    <a href="" ></a><br/>
+    <a href="https://stbhg5.tistory.com/698" >13.1 스프링과 ORM 프레임워크</a><br/>
     <a href="" ></a><br/>
     
 <br/><br/>
