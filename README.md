@@ -295,7 +295,8 @@
     <a href="https://stbhg5.tistory.com/705" >13.2.2.2 프론트엔드 성능 개선</a><br/>
     <a href="https://stbhg5.tistory.com/706" >13.2.2.3 한 대의 서버를 n대의 서버로 확장</a><br/>
     <a href="https://stbhg5.tistory.com/707" >13.3 프론트엔드 학습</a><br/>
-    <a href="" ></a><br/>
+    <a href="https://stbhg5.tistory.com/708" >13.4 설계, 테스트, 리팩토링</a><br/>
+    <a href="https://stbhg5.tistory.com/711" >13.5 빌드, 배포 자동화 및 지속적 통합</a><br/>
     <a href="" ></a><br/>
     
 <br/><br/>
