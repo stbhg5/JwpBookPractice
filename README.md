@@ -297,6 +297,6 @@
     <a href="https://stbhg5.tistory.com/707" >13.3 프론트엔드 학습</a><br/>
     <a href="https://stbhg5.tistory.com/708" >13.4 설계, 테스트, 리팩토링</a><br/>
     <a href="https://stbhg5.tistory.com/711" >13.5 빌드, 배포 자동화 및 지속적 통합</a><br/>
-    <a href="" ></a><br/>
+    <a href="https://stbhg5.tistory.com/714" >13.6 개발 문화 및 프로세스 학습</a><br/>
     
 <br/><br/>
